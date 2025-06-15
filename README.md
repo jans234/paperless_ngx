@@ -38,3 +38,4 @@ These instructions will help you set up the project locally using Docker.
 ```bash
 git clone https://github.com/jans234/paperless_ngx.git
 cd paperless_ngx
+docker compose up -d
