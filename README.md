@@ -4,6 +4,9 @@ This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paper
 
 ---
 
+![Setup](https://github.com/jans234/paperless_ngx/blob/main/ollama.png)
+
+
 ## 🚀 Features
 
 - 🧠 OCR (Optical Character Recognition) for scanned documents.
