@@ -14,7 +14,8 @@ This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paper
 # Documents
 ![Documents](https://github.com/jans234/paperless_ngx/blob/main/document.png)
 
-
+# Important Tags
+![Tags](https://github.com/jans234/paperless_ngx/blob/main/tags.png)
 
 ## 🚀 Features
 
