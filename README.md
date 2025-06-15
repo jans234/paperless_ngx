@@ -3,7 +3,7 @@
 This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paperless-ngx), a modern document management system (DMS) designed to help you store, organize, and access your digital documents with ease.
 
 ---
-![Setup]("C:\Users\afaqm\Desktop\ollama.png")
+
 ## 🚀 Features
 
 - 🧠 OCR (Optical Character Recognition) for scanned documents.
