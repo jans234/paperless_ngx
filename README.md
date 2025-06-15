@@ -8,6 +8,8 @@ This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paper
 ![Setup](https://github.com/jans234/paperless_ngx/blob/main/ollama.png)
 ![Setup](https://github.com/jans234/paperless_ngx/blob/main/ollama2.png)
 
+# Paperless Dashbored
+![Dashbored](https://github.com/jans234/paperless_ngx/blob/main/Screenshot%202025-06-15%20001332.png)
 
 ## 🚀 Features
 
