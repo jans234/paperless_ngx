@@ -4,7 +4,9 @@ This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paper
 
 ---
 
+# Ollama Setup
 ![Setup](https://github.com/jans234/paperless_ngx/blob/main/ollama.png)
+![Setup](https://github.com/jans234/paperless_ngx/blob/main/ollama2.png)
 
 
 ## 🚀 Features
