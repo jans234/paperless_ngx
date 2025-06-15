@@ -11,6 +11,11 @@ This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paper
 # Paperless Dashbored
 ![Dashbored](https://github.com/jans234/paperless_ngx/blob/main/Screenshot%202025-06-15%20001332.png)
 
+# Documents
+![Documents](https://github.com/jans234/paperless_ngx/blob/main/document.png)
+
+
+
 ## 🚀 Features
 
 - 🧠 OCR (Optical Character Recognition) for scanned documents.
