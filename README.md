@@ -17,6 +17,9 @@ This is a custom clone of [Paperless-NGX](https://github.com/paperless-ngx/paper
 # Important Tags
 ![Tags](https://github.com/jans234/paperless_ngx/blob/main/tags.png)
 
+# OCR
+![OCR](https://github.com/jans234/paperless_ngx/blob/main/OCR.png)
+
 ## 🚀 Features
 
 - 🧠 OCR (Optical Character Recognition) for scanned documents.
